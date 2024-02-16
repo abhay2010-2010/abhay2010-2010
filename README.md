@@ -2,9 +2,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" /></a>
 
-Hello stranger! I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
-
-You can find some of my work on GitHub, and be sure to check out my website for more information about my projects and experience.
+Hello stranger! I am a self-motivated, hard-working, and ambitious Full Stack Web Developer with 1,200 hours of coding practice. Proficient in MERN Stack, adept at solving 500+ DSA problems. Experienced in both solo and collaborative project development. Possesses strong problem-solving abilities and a passion for continuous learning.
+Looking forward to working as a developer and competent employee in an exciting tech company.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
@@ -19,7 +18,11 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Node.js**
+- 🔭 I’m currently working on **Frontend & Backend**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
 - 👨‍💻 All of my projects are available at [abhay2010-2010](abhay2010-2010)
 
