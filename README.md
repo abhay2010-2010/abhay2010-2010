@@ -26,7 +26,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 👨‍💻 All of my projects are available at [abhay2010-2010](abhay2010-2010)
+- 👨‍💻 All of my projects are available at [https://abhay2010-2010.github.io/](https://abhay2010-2010.github.io/)
 
 - 💬 Ask me about **DSA, JavaScript, MySql,GitHub**
 
