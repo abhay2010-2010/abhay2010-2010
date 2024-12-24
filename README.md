@@ -19,7 +19,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m recently completed [GlobGliders](https://globgliders.vercel.app/packages.html)
+- 🔭 I’m recently completed [EventMeastro](https://globgliders.vercel.app/packages.html)
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
