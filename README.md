@@ -20,7 +20,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on repository [Ticket-Management]([https://event-maestro-jfkz.vercel.app/](https://github.com/abhay2010-2010/Ticket-management))
+- 🔭 I’m currently working on repository [Ticket-Management](https://github.com/abhay2010-2010/Ticket-management)
 
 - 🔭 I’m recently completed [EventMeastro](https://event-maestro-jfkz.vercel.app/)
 
